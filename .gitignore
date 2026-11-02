@@ -1,0 +1,34 @@
+# --- Visual Studio ---
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# --- Build Folders ---
+[Bb]in/
+[Oo]bj/
+[Rr]elease/
+[Dd]ebug/
+
+# --- Test Results & Cache ---
+*.aps
+*.cache
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+
+# --- OS Files ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# --- Logs & External Caches ---
+*.log
+logs/
+.cache/
+.vscode/
